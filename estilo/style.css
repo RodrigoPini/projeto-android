@@ -59,7 +59,6 @@ header > h1 {
     font-size: 3em;
     font-weight: normal;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
-    margin-bottom: 20px;
 }
 
 header > p {
@@ -71,7 +70,6 @@ header > p {
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
-    margin-bottom: 5px;
 }
 
 nav {
